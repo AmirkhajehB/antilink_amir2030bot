@@ -1,7 +1,7 @@
 
 توکن,ایدی,ایدی گروه در فایل کانفیگ وارد شود
 
-git clone https://github.com/TeleCleverGuy/jil.git
+git clone https://github.com/AmirkhajehB/antilink_amir2030bot.git
 
 بسته های زیر نصب شوند
 
